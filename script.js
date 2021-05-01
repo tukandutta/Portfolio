@@ -22,7 +22,7 @@ const Menu = props => {
 
 
     React.createElement("li", null, /*#__PURE__*/
-    React.createElement("a", { href: "#projects", onClick: props.toggleMenu }, "PORTFOLIO")), /*#__PURE__*/
+    React.createElement("a", { href: "#projects", onClick: props.toggleMenu }, "PROJECTS")), /*#__PURE__*/
 
 
 
@@ -85,7 +85,7 @@ const Header = props => {
 
 
     React.createElement("div", { className: "buttons" }, /*#__PURE__*/
-    React.createElement("a", { href: "#projects" }, "About me"), /*#__PURE__*/
+    React.createElement("a", { href: "#about" }, "About me"), /*#__PURE__*/
     React.createElement("a", { href: "#contact", className: "cta" }, "Get in touch")))));
 
 
