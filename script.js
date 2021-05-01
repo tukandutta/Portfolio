@@ -110,8 +110,8 @@ const About = props => {
     React.createElement("p", { className: "separator" })), /*#__PURE__*/
 
     React.createElement("div", { className: "desc full" }, /*#__PURE__*/
-    React.createElement("h4", { className: "subtitle" }, "My name is Tukan"), /*#__PURE__*/
-    React.createElement("p", null, "I am a self taught web developer, and a proficient competitive programmer.  Currently a computer science undergraduate at NIT Silchar '21."), /*#__PURE__*/
+    React.createElement("h4", { className: "subtitle" }, "Hello! My name is Tukan"), /*#__PURE__*/
+    React.createElement("p", null, "A self taught web developer, and a proficient competitive programmer.  Currently a computer science undergraduate at NIT Silchar '21."), /*#__PURE__*/
 
 
 
@@ -139,7 +139,7 @@ const About = props => {
 
 
     React.createElement("div", { className: "desc" }, /*#__PURE__*/
-    React.createElement("h4", { className: "subtitle" }, "Also a Coder"), /*#__PURE__*/
+    React.createElement("h4", { className: "subtitle" }, "Also a Competitive Coder"), /*#__PURE__*/
     React.createElement("p", null, "I feel comfortable working with C , C++. "), /*#__PURE__*/
 
 
