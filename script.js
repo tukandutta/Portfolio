@@ -252,8 +252,8 @@ const Projects = props => {
        title: "Tecnoesis'18",
       img: 'im/tec.png',
       tech: "js html css",
-      link: "https://10kan-dutta.github.io/Tecnoesis-2018/",
-      repo: "https://github.com/10kan-dutta/Tecnoesis-2018" }, /*#__PURE__*/
+      link: "https://tukan-dutta.github.io/Tecnoesis-2018/",
+      repo: "https://github.com/tukan-dutta/Tecnoesis-2018" }, /*#__PURE__*/
 
     React.createElement("small", null, "Built using JS , CSS , HTML"), /*#__PURE__*/
     React.createElement("p", null, "The Annual Techno-Management Festival of NIT Silchar 2018."))))));
@@ -347,7 +347,7 @@ const SocialLinks = props => {
 
     React.createElement("a", {
       id: "profile-link",
-      href: "https://github.com/10kan-dutta",
+      href: "https://github.com/tukan-dutta",
       target: "_blank",
       rel: "noopener noreferrer",
       title: "Link to author's GitHub Profile" },
